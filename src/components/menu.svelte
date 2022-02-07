@@ -25,10 +25,10 @@
 
 <style>
     .active {
-        background-color: #145DA0 !important;
+        background-color: #000000 !important;
     }
 
     .nav-link {
-        color: #145DA0;
+        color: #000000;
     }
 </style>
