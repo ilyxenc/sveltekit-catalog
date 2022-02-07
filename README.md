@@ -1,2 +1,1 @@
-# sveltekit-catalog
-Catalog using SvelteKit
+Catalog using SvelteKit and Bootstrap

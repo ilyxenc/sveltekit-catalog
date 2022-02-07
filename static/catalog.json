@@ -1,0 +1,43 @@
+[
+    {
+        "id": 1,
+        "name": "New Look funnel neck puffer in navy",
+        "price": 15.95
+    }, {
+        "id": 2,
+        "name": "Reebok floatride run fast pro sneakers in blue",
+        "price": 119.90
+    }, {
+        "id": 3,
+        "name": "Reclaimed Vintage Inspired recycled unisex fisherman beanie in rust",
+        "price": 7.40
+    }, {
+        "id": 4,
+        "name": "Slouchy beanie in black",
+        "price": 6.75
+    }, {
+        "id": 5,
+        "name": "Le Breve track sweatpants in black - part of a set",
+        "price": 17.50
+    }, {
+        "id": 6,
+        "name": "Threadbare overhead hoodie & jogger tracksuit set in charcoal",
+        "price": 38.00
+    }, {
+        "id": 7,
+        "name": "Lacoste pocket long sleeve shirt in white",
+        "price": 120.00
+    }, {
+        "id": 8,
+        "name": "Tommy Hilfiger woven bracelet in navy",
+        "price": 21.75
+    }, {
+        "id": 9,
+        "name": "French Connection FCUK ribbed gloves in black",
+        "price": 6.25
+    }, {
+        "id": 10,
+        "name": "3 pack face coverings with adjustable straps and nose clip in black",
+        "price": 7.60
+    }
+]
